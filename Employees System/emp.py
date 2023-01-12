@@ -1,4 +1,5 @@
 # A program for employee information
+#Main purpose in to implement inheritance
 #Main Class
 class Employee:
     def __init__(self, employee_name, employee_number):
